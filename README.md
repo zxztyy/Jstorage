@@ -224,44 +224,6 @@ External AI services generate salary estimation and analysis based on:
 
 ---
 
-## Screenshots
-
-### Login Page
-
-> *(Add screenshot here)*
-
----
-
-### Dashboard
-
-> *(Add screenshot here)*
-
----
-
-### Job Search
-
-> *(Add screenshot here)*
-
----
-
-### Salary Prediction
-
-> *(Add screenshot here)*
-
----
-
-### Recommendation System
-
-> *(Add screenshot here)*
-
----
-
-### Admin Dashboard
-
-> *(Add screenshot here)*
-
----
-
 ## Database
 
 Main tables:
@@ -333,18 +295,11 @@ This project is released under the MIT License.
 
 ## Author
 
-**Xiyuan Zhang**
+**J**
 
-Bachelor of Engineering in Data Science and Big Data Technology
-
-Jiangsu Ocean University
-
-Email: *(your email)*
+Bachelor
 
 GitHub: *(your GitHub profile)*
-
-LinkedIn: *(optional)*
-
 ---
 
 ⭐ If you like this project, please consider giving it a star.
