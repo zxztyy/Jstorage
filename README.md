@@ -23,7 +23,7 @@ Besides traditional recruitment analysis, the platform also provides:
 - Administrative management system
 - User authentication and favorites management
 
-The project was developed as a graduation project for the Bachelor's Degree in Data Science and Big Data Technology.
+The project was developed as a graduation project.
 
 ---
 
