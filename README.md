@@ -299,7 +299,7 @@ This project is released under the MIT License.
 
 Bachelor
 
-GitHub: *(your GitHub profile)*
+GitHub: *(zxztyy)*
 ---
 
 ⭐ If you like this project, please consider giving it a star.
